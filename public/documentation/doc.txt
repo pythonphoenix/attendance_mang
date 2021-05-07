@@ -1,0 +1,10 @@
+Important CSS Document
+1. ../css/style.css
+2. Navigation and Page Alignment (../vendors/bootstrap/bootstrap.min.css)
+3. Gradient in the first blue section (../vendors/fontawesome/css/all.min.css)
+4. To add grey colour to the page (../vendors/themify-icons/themify-icons.css)
+
+JAVASCRIPT
+
+1. Drop down list when in mobile view (<script src="../vendors/jquery/jquery-3.2.1.min.js"></script> AND <script src="../vendors/bootstrap/bootstrap.bundle.min.js"></script>)
+2. Maintain Navigation Pane while scrolling down (<script src="../js/main.js"></script>)
